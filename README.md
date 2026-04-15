@@ -1,3 +1,4 @@
+https://www.loom.com/share/07280d7b9f7142f59dd62f50436c7548
 Generated with [vike.dev/new](https://vike.dev/new) ([version 619](https://www.npmjs.com/package/create-vike/v/0.0.619)) using this command:
 
 ```sh
